@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @PROSHAH-Shery
+- 👀 I’m interested in Artificial Intelligence and Machine Learning.
+- 🌱 I’m currently learning programming, data structures, and algorithms as part of my Computer Science studies.
+- 💞️ I’m looking to collaborate on projects related to AI, data analysis, and software development.
+- 📫 How to reach me: sheryshah395@gmail.com
+- ⚡ Fun fact: I love solving puzzles and challenges, which helps me improve my problem-solving skills in programming!
